@@ -1,0 +1,5 @@
+After finishing the Heroes of Pymoli homework I have found that these three trends exist:
+
+1. Our target market of 20-24 year olds makes up about 44% of total users and 47% of total revenue. In order to make a more profitable game I believe we should market ourselves more to both the younger (14 and under) and older(30 plus) age ranges.
+2. Males make up 83.5% of our total purchases yet Females and Others on average have a high total purchase per person. If we could increase those users its possible our avg total purchase per person would increase overall.
+3. Higher priced items seem to be selling more frequently than lower priced items. Increasing our special high price items may lead to an increase in sales.
